@@ -1,0 +1,32 @@
+body {
+  color: lightpink;
+  font-family: arial,sans-serif;
+  margin: 10px;
+
+}
+h2 {
+  color: darkgreen;
+
+}
+h3 {
+  color: lightblue;
+}
+li {
+  color: lightgreen;
+  text-align: left;
+}
+#Jaffa {
+  color: orange;
+}
+.anything-else {
+  color: blue;
+}
+#apples {
+  color: lightgreen
+}
+.orange {
+  color: orange;
+}
+.button {
+  border: 1px solid black;
+}
